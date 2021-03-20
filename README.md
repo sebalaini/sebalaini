@@ -2,6 +2,8 @@
 
 I'm a Full-stack engineer based in London working for an amazing company and learning new things every day.
 
+![2ef7df2a0894ded3d83cf71087d2a1ae](https://user-images.githubusercontent.com/17096352/111878819-9a82c980-899f-11eb-8e26-4740ccfb899f.jpg)
+
 <h3> 🛠 &nbsp;Part of my Tech Stack include:</h3>
 
 - 💻 &nbsp;
