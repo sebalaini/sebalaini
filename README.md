@@ -1,20 +1,39 @@
 ### Hi there 👋 welcome to my GitHub profile
 
+I'm a Full-stack engineer based in London working for an amazing company and learning new things every day.
+
+<h3> 🛠 &nbsp;Part of my Tech Stack include:</h3>
+
+- 💻 &nbsp;
+  ![Linux](https://img.shields.io/badge/-linux-333333?style=flat&logo=linux)
+  ![Mac OS](https://img.shields.io/badge/-apple-333333?style=flat&logo=apple)
+
+- 🌐 &nbsp;
+  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Vue.js](https://img.shields.io/badge/-vue.js-333333?style=flat&logo=vue.js)
+  ![Nuxt.js](https://img.shields.io/badge/-nuxt.js-333333?style=flat&logo=nuxt.js)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+
+- 🛢 &nbsp;
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=Postgresql)
+
+- ⚙️ &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![Docker](https://img.shields.io/badge/-docker-333333?style=flat&logo=docker)
+  ![AWS](https://img.shields.io/badge/-amazon-aws?style=flat&color=333333&logo=amazon-aws)
+
+- 🔧 &nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+
 <br />
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sebalaini&show_icons=true&theme=dark" /> 
+<br />
+
+<p style="display:flex;width:100%">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sebalaini&show_icons=true&theme=dark" style="padding-right:3em;"/> 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebalaini&theme=dark&layout=compact" />
+<p>
 
-<!--
-**sebalaini/sebalaini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
