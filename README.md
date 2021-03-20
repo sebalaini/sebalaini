@@ -1,8 +1,8 @@
 ### Hi there 👋 welcome to my GitHub profile
 
 <br />
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sebalaini&show_icons=true&theme=dark" alt="sudnyeshtalekar" /> 
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sebalaini&show_icons=true&theme=dark" /> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebalaini&theme=dark&layout=compact" />
 
 <!--
 **sebalaini/sebalaini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
