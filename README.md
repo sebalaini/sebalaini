@@ -2,7 +2,7 @@
 
 I'm a Full-stack engineer based in Madrid working for an amazing company in London and learning new things every day.
 
-![2ef7df2a0894ded3d83cf71087d2a1ae](https://user-images.githubusercontent.com/17096352/169637936-0b0f8e95-4147-4460-a6c0-8e65160ac79c.png)
+![2ef7df2a0894ded3d83cf71087d2a1ae](https://user-images.githubusercontent.com/17096352/169638017-03f8efcf-81b4-45cb-9dcc-d0033f705db6.png)
 
 <h3> 🛠 &nbsp;Part of my Tech Stack include:</h3>
 
