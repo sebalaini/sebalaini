@@ -1,6 +1,6 @@
 ### Hi there 👋 welcome to my GitHub profile
 
-I'm a Full-stack engineer based in Madrid working for an amazing company in London and learning new things every day.
+I'm a Full-stack engineer based in Madrid working for an amazing company based in London and I'm learning new things every day.
 
 ![2ef7df2a0894ded3d83cf71087d2a1ae](https://user-images.githubusercontent.com/17096352/169638017-03f8efcf-81b4-45cb-9dcc-d0033f705db6.png)
 
