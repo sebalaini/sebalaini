@@ -35,7 +35,6 @@ I'm a Full-stack engineer based in Madrid working for an amazing company based i
 <br />
 
 <p style="display:flex;width:100%">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sebalaini&show_icons=true&theme=dark" style="padding-right:3em;"/> 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebalaini&theme=dark&layout=compact" />
 <p>
 
