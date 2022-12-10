@@ -14,10 +14,12 @@ I'm a Full-stack engineer based in Madrid working for an amazing company based i
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=SASS&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Vue.js](https://img.shields.io/badge/-vue.js-333333?style=flat&logo=vue.js)
   ![Nuxt.js](https://img.shields.io/badge/-nuxt.js-333333?style=flat&logo=nuxt.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Next.js](https://img.shields.io/badge/-next.js-333333?style=flat&logo=next.js)
 
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
@@ -34,7 +36,5 @@ I'm a Full-stack engineer based in Madrid working for an amazing company based i
 <br />
 <br />
 
-<p style="display:flex;width:100%">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebalaini&theme=dark&layout=compact" />
-<p>
 
