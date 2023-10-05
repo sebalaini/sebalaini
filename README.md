@@ -17,6 +17,7 @@ I'm a Full-stack engineer based in Madrid working for an amazing company based i
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=SASS&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Typescript](https://img.shields.io/badge/-typescript-333333?style=flat&logo=typescript)
   ![Vue.js](https://img.shields.io/badge/-vue.js-333333?style=flat&logo=vue.js)
   ![Nuxt.js](https://img.shields.io/badge/-nuxt.js-333333?style=flat&logo=nuxt.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
