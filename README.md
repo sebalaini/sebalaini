@@ -34,9 +34,3 @@ I'm a Full-stack engineer based in Madrid working for an amazing company based i
 
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-
-<br />
-<br />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebalaini&theme=dark&layout=compact" />
-
