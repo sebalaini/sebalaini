@@ -11,8 +11,6 @@ I'm a Full-stack engineer based in Madrid working for an amazing company based i
   ![Mac OS](https://img.shields.io/badge/-apple-333333?style=flat&logo=apple)
 
 - 🌐 &nbsp;
-  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
-  ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=SASS&logoColor=1572B6)
@@ -22,6 +20,8 @@ I'm a Full-stack engineer based in Madrid working for an amazing company based i
   ![Nuxt.js](https://img.shields.io/badge/-nuxt.js-333333?style=flat&logo=nuxt.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Next.js](https://img.shields.io/badge/-next.js-333333?style=flat&logo=next.js)
+  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
+  ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
 
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
@@ -31,6 +31,7 @@ I'm a Full-stack engineer based in Madrid working for an amazing company based i
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![Docker](https://img.shields.io/badge/-docker-333333?style=flat&logo=docker)
   ![AWS](https://img.shields.io/badge/-amazon-aws?style=flat&color=333333&logo=amazon-aws)
+  ![K8](https://img.shields.io/badge/-kubernetes?style=flat&color=333333&logo=kubernetes)
 
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
