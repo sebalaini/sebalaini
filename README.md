@@ -1,6 +1,6 @@
 ### Hi there 👋 welcome to my GitHub profile
 
-I'm a Full-stack engineer based in Madrid working for an amazing company based in London and I'm learning new things every day.
+I'm a site reliability engineer and a former Full-stack engineer based in Madrid working for an amazing company based in London and I'm learning new things every day.
 
 ![2ef7df2a0894ded3d83cf71087d2a1ae](https://user-images.githubusercontent.com/17096352/169638017-03f8efcf-81b4-45cb-9dcc-d0033f705db6.png)
 
@@ -22,6 +22,7 @@ I'm a Full-stack engineer based in Madrid working for an amazing company based i
   ![Next.js](https://img.shields.io/badge/-next.js-333333?style=flat&logo=next.js)
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
   ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
+  ![Backstage](https://img.shields.io/badge/-backstage-333333?style=flat&logo=backstage)
 
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
