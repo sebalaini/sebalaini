@@ -32,8 +32,7 @@ I'm a site reliability engineer and a former Full-stack engineer based in Madrid
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![Docker](https://img.shields.io/badge/-docker-333333?style=flat&logo=docker)
   ![AWS](https://img.shields.io/badge/-amazon-aws?style=flat&color=333333&logo=amazon-aws)
-  ![kubernetes](https://img.shields.io/badge/-kubernetes?style=flat&color=333333&logo=kubernetes)
-  ![minikube](https://img.shields.io/badge/-minikube-333333?style=flat&logo=minikube)
+  ![kubernetes](https://img.shields.io/badge/-kubernetes-333333?style=flat&logo=kubernetes)
 
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
