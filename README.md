@@ -2,6 +2,8 @@
 
 I'm a site reliability engineer and a former Full-stack engineer based in Madrid working for an amazing company based in London and I'm learning new things every day.
 
+> ⚠️ I'm aware some code in my repository can be automated via GitHub Actions or done differently, is just my position about not using GitHub functionality to achieve it, even though I know how to do it via GitHub functionalities.
+
 ![2ef7df2a0894ded3d83cf71087d2a1ae](https://user-images.githubusercontent.com/17096352/169638017-03f8efcf-81b4-45cb-9dcc-d0033f705db6.png)
 
 <h3> 🛠 &nbsp;Part of my Tech Stack include:</h3>
