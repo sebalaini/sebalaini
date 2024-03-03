@@ -35,6 +35,7 @@ I'm a site reliability engineer and a former Full-stack engineer based in Madrid
   ![Docker](https://img.shields.io/badge/-docker-333333?style=flat&logo=docker)
   ![kubernetes](https://img.shields.io/badge/-kubernetes-333333?style=flat&logo=kubernetes)
   ![GitHub Actions](https://img.shields.io/badge/-githubactions-333333?style=flat&logo=githubactions)
+  ![Terraform](https://img.shields.io/badge/-terraform-333333?style=flat&logo=terraform)
 
 - ☁️ &nbsp;
   ![AWS](https://img.shields.io/badge/-amazon-aws?style=flat&color=333333&logo=amazon-aws)
