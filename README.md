@@ -1,13 +1,13 @@
-### Hi there 👋 welcome to my GitHub profile
+## Hi there 👋 welcome to my GitHub profile
 
 I'm a site reliability engineer and a former Full-stack engineer based in Madrid working for an amazing company based in London and I'm learning new things every day.
 
 > ⚠️ My repositories don't reflect what I do in my day-by-day job and the way I'm working. <br>
 > I'm aware some code in my repositories can be automated via GitHub Actions or done differently, is just my position about not using GitHub functionalities to achieve it, even though I know how to do it.
 
-![2ef7df2a0894ded3d83cf71087d2a1ae](https://user-images.githubusercontent.com/17096352/169638017-03f8efcf-81b4-45cb-9dcc-d0033f705db6.png)
+<br>
 
-<h3> 🛠 &nbsp;Part of my Tech Stack include:</h3>
+### 🛠 &nbsp;Part of my Tech Stack include:
 
 - 💻 &nbsp;
   ![Linux](https://img.shields.io/badge/-linux-333333?style=flat&logo=linux)
