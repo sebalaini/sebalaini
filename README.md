@@ -15,6 +15,7 @@ I'm a site reliability engineer and a former Full-stack engineer based in Madrid
 
 - 🌐 &nbsp;
   ![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=SASS&logoColor=1572B6)
+  ![Tailwind CSS](https://img.shields.io/badge/-tailwindcss-333333?style=flat&logo=tailwindcss)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Typescript](https://img.shields.io/badge/-typescript-333333?style=flat&logo=typescript)
   ![Vue.js](https://img.shields.io/badge/-vue.js-333333?style=flat&logo=vue.js)
@@ -25,6 +26,19 @@ I'm a site reliability engineer and a former Full-stack engineer based in Madrid
   ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
   ![Go](https://img.shields.io/badge/-go-333333?style=flat&logo=go)
   ![Backstage](https://img.shields.io/badge/-backstage-333333?style=flat&logo=backstage)
+
+- 📦 &nbsp;
+  ![Yarn](https://img.shields.io/badge/-yarn-333333?style=flat&logo=yarn)
+
+- 🧪 &nbsp;
+  ![Jest](https://img.shields.io/badge/-jest-333333?style=flat&logo=jest)
+  ![Testing Library](https://img.shields.io/badge/-testinglibrary-333333?style=flat&logo=testinglibrary)
+
+- 💅 &nbsp;
+  ![Prettier](https://img.shields.io/badge/-prettier-333333?style=flat&logo=prettier)
+  ![Stylelint](https://img.shields.io/badge/-stylelint-333333?style=flat&logo=stylelint)
+  ![Eslint](https://img.shields.io/badge/-eslint-333333?style=flat&logo=eslint)
+  ![]()
 
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
