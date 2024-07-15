@@ -4,7 +4,7 @@ I am a Site Reliability Engineer and former Full-Stack Engineer based in Madrid,
 
 >⚠️ Please note that the repositories on this profile do not necessarily reflect the full scope of my daily responsibilities or the methodologies I employ in my professional work. While some of the code in these repositories could be automated using GitHub Actions or implemented differently, I have chosen not to utilize these functionalities for specific reasons, despite being proficient in their application.
 
-<br>
+---
 
 ### 🛠 &nbsp; Part of my Tech Stack includes:
 
