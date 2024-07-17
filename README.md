@@ -10,6 +10,7 @@ I am a Site Reliability Engineer and former Full-Stack Engineer based in Madrid,
 
 - 💻 &nbsp;
   ![Linux](https://img.shields.io/badge/-linux-333333?style=flat&logo=linux)
+  ![Ubuntu](https://img.shields.io/badge/-ubuntu-333333?style=flat&logo=ubuntu)
   ![Mac OS](https://img.shields.io/badge/-apple-333333?style=flat&logo=apple)
 
 - 🌐 &nbsp;
