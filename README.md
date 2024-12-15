@@ -6,8 +6,6 @@ I am a Site Reliability Engineer and former Full-Stack Engineer based in Madrid.
 
 ![Madrid](https://user-images.githubusercontent.com/17096352/169638017-03f8efcf-81b4-45cb-9dcc-d0033f705db6.png)
 
----
-
 ## 🛠 My Tech Stack includes:
 
 ### 💻 Operating Systems
